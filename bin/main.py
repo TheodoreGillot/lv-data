@@ -11,7 +11,7 @@ import re
 
 warnings.filterwarnings('ignore')
 
-# Load data
+# Load dataa
 config = configparser.ConfigParser()
 config.read('../cfg/config.ini')
 
