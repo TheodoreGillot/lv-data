@@ -1,14 +1,10 @@
 # lv-data BDD project
 
-## Overview
-
-**lv-data** is a Python-based utility designed to compare datasets stored in CSV format. It identifies and highlights differences between two datasets—typically referred to as "old" and "new"—ensuring data consistency and accuracy. This tool is particularly useful for scenarios involving large, frequently updated datasets where efficiently tracking changes is crucial.
-
 ## Features
 
-- **Dataset Comparison:** Quickly identifies differences between two CSV files.
-- **Sorting and Validation:** Automatically sorts data by serial number and validates counts across datasets.
-- **Detailed Reporting:** Provides clear reports on mismatches or discrepancies.
+- **Data understanding and cleaning:**
+- **Deep ML analysis**.
+- **Detailed Reporting**
 
 ## Installation
 
