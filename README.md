@@ -2,7 +2,7 @@
 
 ## Features
 
-- **Data understanding and cleaning:**
+- **Data understanding and cleaning**
 - **Deep ML analysis**.
 - **Detailed Reporting**
 
