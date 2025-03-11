@@ -15,6 +15,7 @@ product = pd.read_csv(product_df_path, sep=',')
 client = pd.read_csv(client_df_path, sep=';')
 transac = pd.read_csv(transac_df_path, sep=';')
 
+
 print(product.info())
 print("-"*50)
 print(client.info())
