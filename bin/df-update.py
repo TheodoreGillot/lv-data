@@ -29,6 +29,7 @@ combined_client = pd.concat([client, client_df], ignore_index=True)
 for col in client_df.columns:
     combined_client[col] = combined_client[col].astype(client_df[col].dtype)
 
+
 combined_client.to_csv('updated_client.csv', index=False, sep=',', na_rep='')
 
 transactions_df = transactions_df.rename(columns={'website_version': 'country'})
